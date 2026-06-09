@@ -1,0 +1,45 @@
+# Geotechnicalengineering — North Vancouver
+
+> Geotechnical engineering services in North Vancouver, Canada.
+
+## Services
+- [Atterberg Limits](https://north-vancouver.geotechnicalengineering.vip/atterberg-limits/)
+- [Cbr Road](https://north-vancouver.geotechnicalengineering.vip/cbr-road/)
+- [Deep Excavations](https://north-vancouver.geotechnicalengineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://north-vancouver.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://north-vancouver.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://north-vancouver.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://north-vancouver.geotechnicalengineering.vip/footings/)
+- [Foundations](https://north-vancouver.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://north-vancouver.geotechnicalengineering.vip/geophysics/)
+- [Grain Size](https://north-vancouver.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://north-vancouver.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://north-vancouver.geotechnicalengineering.vip/grouting/)
+- [Investigation](https://north-vancouver.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://north-vancouver.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://north-vancouver.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://north-vancouver.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://north-vancouver.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://north-vancouver.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://north-vancouver.geotechnicalengineering.vip/piles/)
+- [Plate Load Test](https://north-vancouver.geotechnicalengineering.vip/plate-load-test/)
+- [Retaining Walls](https://north-vancouver.geotechnicalengineering.vip/retaining-walls/)
+- [Rigid Pavement](https://north-vancouver.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://north-vancouver.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://north-vancouver.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://north-vancouver.geotechnicalengineering.vip/seismic/)
+- [Seismic Refraction](https://north-vancouver.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://north-vancouver.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://north-vancouver.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://north-vancouver.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://north-vancouver.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://north-vancouver.geotechnicalengineering.vip/stone-columns/)
+- [Triaxial](https://north-vancouver.geotechnicalengineering.vip/triaxial/)
+- [Vibrocompaction](https://north-vancouver.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://north-vancouver.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in North Vancouver, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
